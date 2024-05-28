@@ -11,12 +11,8 @@
 3. Visualise normality of numerical values, `plotnorm`
 4. Calculate correlation coefficients, `correlation_matrix`
 5. Visualise correlation coefficients, `correlation_matrix`
-6. Find relationship between target variable and predictor
-   ```
-   categ
-   cat_num
-   ```
-7. Visualise relationship between target variable and predictor
+6. Find relationship between target variable, `Internet.Service` and predictor, `Tenure` (assigned to `cat_num`)
+7. Visualise relationship between target variable and predictor, `cat_num`
 8. Generate mosaic plot *(when predictor is categorical)*
 ### Creating EDA reports
 10. Create static EDA report
